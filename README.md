@@ -1,4 +1,4 @@
-## Chào mọi người 👋
+## Chào mọi người đến với Github của mình 👋
 
 ## Thống Kê Ngôn Ngữ Hàng Đầu
 
@@ -7,10 +7,6 @@
 ## GitHub Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngthanhtri)
-
-## GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ngthanhtri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **ngthanhtri/ngthanhtri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
