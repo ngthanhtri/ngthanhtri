@@ -4,6 +4,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngthanhtri&show_icons=true&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ngthanhtri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ngthanhtri)](https://github.com/anuraghazra/github-readme-stats)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ngthanhtri&theme=dracula)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **ngthanhtri/ngthanhtri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
